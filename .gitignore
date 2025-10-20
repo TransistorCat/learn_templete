@@ -1,0 +1,27 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Executables
+learn_templete
+learn_templete.exe
+
+# Object files
+*.o
+*.obj
+
+# Dependency files
+*.d
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake

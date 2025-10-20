@@ -22,5 +22,5 @@ int main(){
     Test t1{10};
     Test t2{20};
     std::cout<<"max(t1,t2): " <<::max(t1,t2).v_<<'\n';
-    std::cout<<"max(t1,t2): " <<::max<Test>(t1,t2).v_<<'\n';
+    // std::cout<<"max(t1,t2): " <<::max<Test>(t1,t2).v_<<'\n';
 }
