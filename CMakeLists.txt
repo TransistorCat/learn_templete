@@ -10,4 +10,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_subdirectory(01_funtion_templete/)
+add_subdirectory(01_function_templete/)
